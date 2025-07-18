@@ -102,7 +102,7 @@ autonomous systems.
 
   -----------------------------------------------------------------------
 
-##  authentication
+##  Authentication
 
 -   Authentication Strategy: API token (header based)
 
